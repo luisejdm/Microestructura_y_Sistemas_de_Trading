@@ -214,4 +214,7 @@ $RECYCLE.BIN/
 *.DS_Store
 **/.DS_Store
 
+# En tu .gitignore
+.idea/
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,python,jupyternotebooks
